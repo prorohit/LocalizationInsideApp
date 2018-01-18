@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  LocalizationInsideApp
+
+  Created by Rohit Singh on 1/17/18.
+  Copyright © 2018 Rohit Singh. All rights reserved.
+*/
+
+
+"hello" = "Hello";
+
